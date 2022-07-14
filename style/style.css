@@ -48,6 +48,7 @@ header {
         "navegacion navegacion"
         "main main"
         "footer footer";
+        background-color: black;
 }
 
 /* Index Menu */
@@ -274,6 +275,7 @@ footer {
         "footer footer footer";
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 
 .nosotrxs__main {
@@ -376,6 +378,10 @@ footer {
 
     position: relative;
     margin: 1rem;
+}
+
+.lasClases__body {
+    background-color: black;
 }
 
 .lasClases__parrafo {
@@ -510,6 +516,9 @@ footer {
     text-decoration: underline;
 }
 
+.horarios__body {
+    background-color: black;
+}
 
 #horarios__titulo__salon1 {
     color: white;
@@ -587,6 +596,10 @@ footer {
     padding: 1rem 1rem;
     font-family: 'Oswald', sans-serif;
     text-decoration: underline;
+}
+
+.contacto__body {
+    background-color: black;
 }
 
 .contacto__form {
